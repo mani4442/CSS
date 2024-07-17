@@ -1,0 +1,20 @@
+body{
+    background-color: aqua;
+}
+h1{
+    background-color: darkviolet;
+}
+h2{
+    background-color: blueviolet;
+}
+p{
+    background-color: cadetblue;
+}
+ol{
+    background-color: greenyellow;
+    list-style-type: upper-roman;
+}
+ul{
+    background-color: crimson;
+    list-style-type: circle;
+}
